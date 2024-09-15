@@ -9,7 +9,7 @@
 
 **アップデートあり:** この警告メッセージは非表示にできるようになりました。
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## 何が起こっているのか
 
@@ -60,7 +60,7 @@ GitHub はあらゆる人々にとってオープンで自由なプラットフ�
 - ["together" フォルダ](together) の中に、あなたのユーザネームでフォルダを作る
 - "GitHub is for everyone" と出力するコードを（あなたの好きな言語で）書く
 - Pull Request をする
-- [サポーター セクション](README.md#supporters) にあなたの名前と国を追加する
+- [サポーター セクション](README.md#supporters-list-sorted-alphabetically) にあなたの名前と国を追加する
 
 ## 本件に関する記事
 
@@ -76,5 +76,5 @@ GitHub はあらゆる人々にとってオープンで自由なプラットフ�
 
 ## サポーター
 
-[README.md#supporters](README.md#supporters)
+[README.md#supporters-list-sorted-alphabetically](README.md#supporters-list-sorted-alphabetically)
 

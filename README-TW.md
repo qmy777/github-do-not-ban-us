@@ -1,13 +1,13 @@
 # 給 GitHub 的一封信
 
-[English](./README.md) | 繁體中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md)
+[English](./README.md) | 繁體中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md)| [한국어](./README-KO.md) | [简体中文](./README-CN.md)
 
 ![alt text](./message.png)
 
 ~~**提示:** 你可以使用[此擴充套件](https://github.com/JafarAkhondali/remove-github-restrictions-message)或[此擴充套件](https://github.com/MohamadKh75/ShutHub)或[此Tampermonkey 腳本](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e)或[Stylish](https://userstyles.org/styles/173827/hide-github-warning)来隱藏這個黃色提示框!~~
 **更新:** 此警告訊息現在已經被隱藏了。
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## 介绍
 
@@ -15,7 +15,7 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 
 1. GitHub 突然限制了我们使用私有專案的權限，而我們希望 GitHub 最起碼要在採取該限制措施時先警告/告知我們。
 
-2. GitHub 甚至採取更進一步措施，限制任何只要曾經使用過來自伊朗的IP的用戶使用 Github 。 但 Github 其實可以只要限制現在訪問的IP位置，就像其他美國公司採取的措施。 現在的政策根本就是國籍歧視。
+2. GitHub 甚至採取更進一步措施，限制任何只要曾經使用過來自伊朗的IP的用戶使用 GitHub 。 但 GitHub 其實可以只要限制現在訪問的IP位置，就像其他美國公司採取的措施。 現在的政策根本就是國籍歧視。
 
 最後，我們希望 GitHub 團隊：
 
@@ -56,10 +56,10 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 
 - 星星並在分享此專案到社交平台，加上 #githubForEveryone 這個 hashtag。
 - 在 “together” 資料夾裡新增以你的用戶名命名的資料夾。
-- 將 「Github is for everyone」翻譯成你的語言。
+- 將 「GitHub is for everyone」翻譯成你的語言。
 - 提交 PR。
 - 在支持者列表中新增你的名字和國籍。
 
 ## 支持者列表
 
-備註：請前往[原文檔](./README.md#supporters)。
+備註：請前往[原文檔](./README.md#supporters-list-sorted-alphabetically)。

@@ -1,6 +1,14 @@
 # Een bericht naar GitHub
 
-[English](./README.md)) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [한국어](./README-KO.md) | Nederlands
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
+
+**Aandacht!**
+We zijn zo dankbaar voor je steun. Deze repository laat altijd zien dat mensen allemaal samen zijn tegen ongelukkige gebeurtenissen over de hele wereld.
+Omdat GitHub enkele van de vorige beperkingen heeft herzien, hebben we besloten de activiteit van deze repository te verminderen. Het betekent natuurlijk niet dat we het eens zijn met de sancties en de GitHub.
+We zullen een conclusie plaatsen en binnenkort meer uitleggen, wacht daar alstublieft op.
+De campagne wordt beëindigd ** donderdag 1 augustus 23:59 uur (Tehran Time GMT +4: 30) **. Na deze tijd zullen we geen nieuwe PR meer samenvoegen.
+Nogmaals bedankt voor je steun en vriendelijkheid
+Wacht alstublieft op onze definitieve conclusie
 
 ![alt text](./message.png)
 
@@ -8,7 +16,7 @@
 
 **UPDATE:** De waarschuwing bericht is nu weg.
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## Introductie
 
@@ -60,7 +68,7 @@ Jij kan:
 - Voeg een map met uw gebruikersnaam toe aan ["together" map] (samen).
 - Schrijf een stukje code met de tekst "GitHub is voor iedereen" (in elke gewenste taal).
 - Maak een pull-verzoek.
-- Voeg uw naam en uw land toe aan de [supporters sectie](#supporters).
+- Voeg uw naam en uw land toe aan de [supporters sectie](#supporters-list-sorted-alphabetically).
 
 ## Further Readings
 
@@ -74,7 +82,7 @@ Jij kan:
 - [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions)
 - [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
 - [Yellow badges are back. This time not by Nazi Germany & not for Jews, but by U.S. tech companies](https://medium.com/@hamed/yellow-badges-are-back-this-time-not-by-nazi-germany-not-for-jews-but-by-u-s-tech-companies-48e92d690176)
-- [Github: The largest developer communities van every corner of the globe, But Iran!](https://medium.com/@khalesic/github-the-largest-developer-communities-van-every-corner-of-the-globe-but-iran-804c05a991df)
+- [GitHub: The largest developer communities van every corner of the globe, But Iran!](https://medium.com/@khalesic/github-the-largest-developer-communities-van-every-corner-of-the-globe-but-iran-804c05a991df)
 ## Op sociale media
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
